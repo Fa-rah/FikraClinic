@@ -5,7 +5,6 @@ import firebase from 'firebase';
 import ReactModal from 'react-modal';
 import styled from 'styled-components'
 let data = require('./drugs.json');
-let data2 = require('./diseases.json');
 let drugAlt = [];
 let changeItem;
 
